@@ -1,2 +1,5 @@
-# M-Project-DynamicMultipleBouncingBall
-Repository mengenai tugas PBO tentang game bola yang saling memantul
+# Dynamic Multiple Bouncing Ball
+
+## Cara Kerja
+
+## Demo Game
