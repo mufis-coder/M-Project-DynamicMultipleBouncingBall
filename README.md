@@ -73,3 +73,9 @@ Pada gambar di atas terlihat, ketika dua bola mengalami tumbukan maka cari titik
 
 
 ## Demo Game
+
+- Game dijalankan dengan menekan keyboard (A-Z dan 0-9), maka bola-bola baru (dengan posisi secara random) akan muncul. Dan tulisan yang ada di tengah bola adalah huruf/angka yang ditekan ketika menjalankan game. Bola-bola nantinya akan bergerak dan saling tabrakan sesuai rumus matematika yang telah dijelaskan di atas. 
+
+
+
+Catatan tambahan: huruf yang ditekan harus dalam kondisi/huruf kapital!
